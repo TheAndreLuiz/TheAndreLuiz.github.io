@@ -1,0 +1,13 @@
+.destaques {
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.carousel {
+    overflow: auto;
+    display: flex;
+}
+
+.padding {
+    margin-right: 20px;
+}

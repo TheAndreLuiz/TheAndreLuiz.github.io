@@ -1,0 +1,7 @@
+.footer {
+    bottom: 0;
+    width: 100%;
+    color: #aaa;
+    position: fixed;
+    background-color: purple;
+}

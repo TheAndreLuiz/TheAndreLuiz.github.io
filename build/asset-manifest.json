@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/probyDevBuild/static/css/main.0946b077.css",
+    "main.js": "/probyDevBuild/static/js/main.7e874166.js",
+    "index.html": "/probyDevBuild/index.html",
+    "main.0946b077.css.map": "/probyDevBuild/static/css/main.0946b077.css.map",
+    "main.7e874166.js.map": "/probyDevBuild/static/js/main.7e874166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0946b077.css",
+    "static/js/main.7e874166.js"
+  ]
+}

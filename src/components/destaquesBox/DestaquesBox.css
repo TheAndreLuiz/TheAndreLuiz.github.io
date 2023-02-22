@@ -1,0 +1,47 @@
+img {
+    width: 38px;
+}
+
+.box {
+    width: 180px;
+    height: 145px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #999;
+    box-sizing: padding-box;;
+    flex-shrink: 0;
+}
+
+.profilePicture {
+    margin-top: 15px;
+}
+
+.font {
+  font-family: "Lato";
+}
+
+.nome {
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.titulo {
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.estrelas {
+    height: 28px;
+    margin-top: 10px;
+    background-color: #2f0057;
+    padding-top: 5px;
+    border-radius: 0 0 10px 10px;
+}
+
+.white {
+    color: white;
+}
+
+.yellow {
+    color: yellow;
+}
